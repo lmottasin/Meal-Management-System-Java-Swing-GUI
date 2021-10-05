@@ -1,7 +1,7 @@
 ---
 # Meal Management System Java Swing GUI
 
-<img align="centre" alt="GIF" width='600px' height='500px'  src="assets/project.gif" />
+<img align="centre" alt="GIF" width='80' height='80'  src="assets/project.gif" />
 
 ---
 # Features:
