@@ -4,7 +4,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/lmottasin/Meal-Management-System-Java-Swing-GUI">
     <img src="assets/project.gif" alt="Logo" width="80%" height="80%">
   </a>
 
